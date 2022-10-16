@@ -6,15 +6,6 @@
     "ReplicatedStorage": {
       "Common": {
         "$path": "src/shared"
-      },
-      "Roact": {
-        "$path": "lib/roact"
-      },
-      "Rodux": {
-        "$path": "lib/rodux"
-      },
-      "RoactRodux": {
-        "$path": "lib/roactRodux"
       }
     },
 
